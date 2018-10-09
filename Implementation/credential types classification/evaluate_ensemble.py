@@ -4,9 +4,9 @@ from __future__ import print_function
 
 import numpy as np
 
-NUM_MON_USERS = 247
-NUM_MON_INST_TEST = 13
-NUM_MON_INST_TRAIN = 35
+NUM_MON_USERS = 2
+NUM_MON_INST_TEST = 4760
+NUM_MON_INST_TRAIN = 1050
 NUM_MON_INST = NUM_MON_INST_TEST + NUM_MON_INST_TRAIN
 NUM_UNMON_USERS_TEST = 0
 NUM_UNMON_USERS_TRAIN = 0
@@ -47,7 +47,7 @@ def find_accuracy(predictions, actual, min_confidence):
                 sens_correct += 1
 
     print(sens_correct)
-    #print((NUM_MON_USERS * NUM_MON_INST_TEST))
+
     tpr = sens_correct / (NUM_MON_USERS * NUM_MON_INST_TEST) * 100
 
     if NUM_UNMON_USERS == 0:  # closed-world
@@ -89,7 +89,7 @@ def main(num_mon_users, num_mon_inst_test, num_mon_inst_train, num_unmon_users_t
 
     if NUM_UNMON_USERS == 0:  # closed-world
 
-        print("min_confidence=", 0.) # ??? pk min conf = 0. dans le closed world ?
+        print("min_confidence=", 0.)
 
         print("time model results:", find_accuracy(time_predictions, test_labels, 0.))
         print("dir model results:", find_accuracy(dir_predictions, test_labels, 0.))
@@ -109,4 +109,4 @@ def main(num_mon_users, num_mon_inst_test, num_mon_inst_train, num_unmon_users_t
 
 
 if __name__ == '__main__':
-    main(247, 13, 35, 0, 0)
+    main(2, 4760, 1050, 0, 0)

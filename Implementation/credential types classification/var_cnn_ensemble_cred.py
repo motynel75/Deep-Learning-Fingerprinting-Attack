@@ -174,7 +174,6 @@ def dir_cnn():
         combined_output = Dense(units=NUM_MON_SITES + 1, activation='softmax', name='combined_output')(combined)
 
     model = Model(inputs=[cnn_input, metadata_input], outputs=[combined_output])
-    #model = Model(inputs=[cnn_input], outputs=[combined_output])
 
     model.compile(loss='categorical_crossentropy',
                   optimizer=Adam(0.001),
@@ -274,7 +273,7 @@ def time_cnn():
     cnn_model = time_conv_block(cnn_model, 3, 16)
     cnn_model = time_conv_block(cnn_model, 3, 16)
     cnn_output = Flatten()(cnn_model) # 1st dense layer
-    cnn_output = dense_layer(cnn_output, 1024, 0.4) #dropout to 0.4 on dense layers, why 1024 ?
+    cnn_output = dense_layer(cnn_output, 1024, 0.4) #dropout to 0.4 on dense layers
 
     # construct MLP for metadata
     metadata_input = Input(shape=(7,), name='metadata_input')
