@@ -1,0 +1,449 @@
+	Name	Type	Unique_Private_key
+0	Generic_Government	Government	G001
+1	Goldman Sachs	Bank	B00011
+2	Credit Suisse	Bank	B00010
+3	Société Générale	Bank	B00009
+4	Barclays PLC	Bank	B00008
+5	Mizuho Financial Group	Bank	B00007
+6	Bank of America	Bank	B00006
+7	BNP Paribas	Bank	B00005
+8	HSBC Holdings PLC	Bank	B00004
+9	JPMorgan Chase & Co.	Bank	B00003
+10	Mitsubishi UFJ Financial Group	Bank	B00002
+11	Bank of China	Bank	B00001
+12	Ahi Evran University	University	U83137890
+13	Aibox	Company	C76308068
+14	Ailane	Company	C42818683
+15	Aimbo	Company	C42177227
+16	Aimbu	Company	C64147897
+17	Ainyx	Company	C76872633
+18	Aivee	Company	C19286094
+19	Ajman University of Science & Technology	University	U31848412
+20	Alahgaff University	University	U38068605
+21	Aleksander Gieysztor School of Humanities in Pultusk	University	U31887980
+22	Allegheny College	University	U43565953
+23	American InterContinental University - Ft. Lauderdale	University	U70131407
+24	American International University West Africa	University	U21158924
+25	American University	University	U16297091
+26	American University of Armenia	University	U15203807
+27	Anhui Medical University	University	U29914494
+28	Arab Open University	University	U60182310
+29	Avamba	Company	C6102437
+30	Avamm	Company	C93933092
+31	Avavee	Company	C91325419
+32	Azusa Pacific University	University	U38378666
+33	Babbleopia	Company	C37844266
+34	Babbleset	Company	C32484611
+35	Bahrain Polytechnic	University	U62991956
+36	Beijing Institute of Technology	University	U39559998
+37	Blognation	Company	C55318309
+38	Blogspan	Company	C9971980
+39	Blogtag	Company	C55871758
+40	Bloomfield College	University	U83563531
+41	Blue Mountains Hotel School	University	U35650208
+42	Bluejam	Company	C79904119
+43	Bluezoom	Company	C53701016
+44	Brainbox	Company	C31499909
+45	Brainsphere	Company	C32701054
+46	Brigham Young University	University	U50371873
+47	British Malaysian Institute	University	U55998464
+48	Browsebug	Company	C19936834
+49	Browsecat	Company	C77877363
+50	Browsetype	Company	C46935253
+51	Bubblebox	Company	C2423061
+52	Bubblemix	Company	C83848101
+53	Bubbletube	Company	C32378535
+54	Buckinghamshire New University	University	U97496377
+55	Buzzdog	Company	C58459336
+56	Buzzshare	Company	C93971332
+57	COSMIQ Institute of Technology	University	U91808816
+58	Catholic University of Pusan	University	U75608545
+59	Centidel	Company	C31673741
+60	Centimia	Company	C79030712
+61	Chang Gung University	University	U77839722
+62	Chatterbridge	Company	C90094031
+63	Chatterpoint	Company	C27902377
+64	China University of Mining Technology - Xuzhou	University	U44407262
+65	Chulalongkorn University	University	U32090925
+66	Coastal Carolina University	University	U32325100
+67	Cogibox	Company	C56262043
+68	Cogidoo	Company	C66661075
+69	Cogilith	Company	C54003481
+70	College of Busniess Admnistration	University	U87427167
+71	Concordia College, Bronxville	University	U52782886
+72	Concordia University, Irvine	University	U8377045
+73	Conservatorio del Tolima	University	U59981545
+74	Dabfeed	Company	C41000373
+75	Dabjam	Company	C73633831
+76	Dablist	Company	C33162519
+77	Dabvine	Company	C23022910
+78	Davis and Elkins College	University	U13340415
+79	Dazzlesphere	Company	C42602031
+80	De La Salle University	University	U32011850
+81	DeVry Institute of Technology, Columbus	University	U7400986
+82	Demizz	Company	C80022344
+83	Deutsche Sporthochschule Köln	University	U65678581
+84	Devcast	Company	C93891456
+85	Devpoint	Company	C83757463
+86	Devpulse	Company	C9321081
+87	Digitube	Company	C29799103
+88	Divavu	Company	C66303087
+89	Donghua University, Shanghai	University	U26979547
+90	Dynabox	Company	C43860708
+91	Dynava	Company	C98071160
+92	Dynazzy	Company	C6115405
+93	Eabox	Company	C73607202
+94	Eare	Company	C69269667
+95	East China Normal University	University	U44672854
+96	Ecole Nationale Supérieure des Telecommunications de Bretagne	University	U66593021
+97	Ecole Polytechnique Universitaire de Lille	University	U44909518
+98	Ecole Superieure Robert de Sorbon	University	U70406436
+99	Ecole Supérieure d'Ingénieurs en Génie Electrique	University	U51028677
+100	Ecole Supérieure de Commerce de Toulouse	University	U43098557
+101	Edgeclub	Company	C47481355
+102	Edgeify	Company	C74780568
+103	Eimbee	Company	C8443114
+104	Einti	Company	C70520040
+105	El Shorouk Academy	University	U64669794
+106	Emanuel University	University	U7196879
+107	Escuela Agricola Panamericana Zamorano	University	U41328357
+108	Etisalat University College	University	U3532692
+109	Evangelische Fachhochschule Nürnberg	University	U47129046
+110	Ewha Women's University	University	U83886638
+111	FAST - National University of Computer and Emerging Sciences (NUCES)	University	U92944063
+112	Fachhochschule Gelsenkirchen	University	U63792375
+113	Fachhochschule Heilbronn, Hochschule für Technik und Wirtschaft	University	U78948702
+114	Fachhochschule Lippe	University	U55567582
+115	Fachhochschule Würzburg - Schweinfurt	University	U31163819
+116	Fachhochschule für Technik und Wirtschaft Berlin	University	U82384013
+117	Fachhochschule für die Wirtschaft	University	U78902279
+118	Facultés Universitaires Catholiques de Mons	University	U80527452
+119	Feedbug	Company	C68917584
+120	Feedfish	Company	C69026226
+121	Feedmix	Company	C8105921
+122	Fern-Fachhochschule Hamburg	University	U58467190
+123	Ferris State University	University	U72714655
+124	Fine Arts Academy in Gdansk	University	U90762418
+125	Flashspan	Company	C1568492
+126	Flipopia	Company	C36701782
+127	Flipstorm	Company	C15994996
+128	Florida Christian College	University	U91571236
+129	Florida Southern College	University	U65687718
+130	Freie Universität Berlin	University	U41958735
+131	Gabcube	Company	C85803941
+132	Gabspot	Company	C28947340
+133	Gabtype	Company	C26125495
+134	Geneva Business School	University	U8179416
+135	Georgia Health Sciences University	University	U6805871
+136	Georgia State University	University	U99419696
+137	Gevee	Company	C28323001
+138	Ghazni University	University	U16195052
+139	Gigashots	Company	C20797671
+140	Gigazoom	Company	C62742332
+141	Graduate University for Advanced Studies	University	U43373217
+142	Gubkin Russian State University of Oil and Gas	University	U51146478
+143	Gujarat Ayurved University	University	U11448743
+144	Hamdan Bin Mohammed e-University	University	U19227488
+145	Hamdard University	University	U21856984
+146	Hannibal-Lagrange College	University	U34300871
+147	Hansei University	University	U4392885
+148	Harran University	University	U48496813
+149	Himeji Institute of Technology	University	U52724781
+150	Ho Chi Minh City University of Architecture	University	U52384668
+151	Ho Chi Minh City University of Economics	University	U34145418
+152	Hobe Sound Bible College	University	U7755982
+153	Hogeschool Utrecht	University	U9778139
+154	Hokuriku University	University	U85626081
+155	Huntington College	University	U74828252
+156	Huron University USA in London	University	U24529138
+157	Illinois State University	University	U67021178
+158	Ilsa Independent College	University	U16762653
+159	Imam Sadiq University	University	U8118750
+160	Inchon University	University	U49130625
+161	Innojam	Company	C63073974
+162	Institue of Historical Research, University of London	University	U97657018
+163	Instituto Superior Novas Profissões - INP	University	U34805079
+164	Instituto Universitario CEMA	University	U31059602
+165	International Christian University	University	U92238404
+166	International University of Kyrgyzstan	University	U23674960
+167	Islamic Azad University, Qazvin	University	U10932189
+168	Islamic University of Technology	University	U32748397
+169	Jabbersphere	Company	C46000974
+170	Jaloo	Company	C44196242
+171	Jaxnation	Company	C71983843
+172	Jaxspan	Company	C30733993
+173	Jaxworks	Company	C93374678
+174	Jayo	Company	C45822772
+175	Jetpulse	Company	C18980659
+176	Katz	Company	C65108272
+177	Kawasaki Medical School	University	U88579613
+178	Kazio	Company	C12190600
+179	Kermanshah University of Technology	University	U72117679
+180	Kiriri Womens University of Science and Technology	University	U92479304
+181	Knowledge College for Science and Technology	University	U2236323
+182	Kobe Pharmaceutical University	University	U43346712
+183	Kolej Universiti Insaniah	University	U74395274
+184	Konkuk University	University	U98957424
+185	Kurdistan University of Medical Sciences	University	U98405832
+186	Kwilith	Company	C33361742
+187	Kwimbee	Company	C35195893
+188	Kwinu	Company	C74474926
+189	Kyoritsu Woman's University	University	U95861941
+190	La Salle University	University	U31289563
+191	Layo	Company	C54957346
+192	Leenti	Company	C70961357
+193	Leexo	Company	C50510498
+194	Les Roches International School of Hotel Management	University	U54983843
+195	Leyte State University 	University	U40883712
+196	Livefish	Company	C62182738
+197	Livetube	Company	C38368976
+198	Lutheran School Of Theology In Aarhus	University	U94352767
+199	Luxun Academy of Fine Art	University	U58671528
+200	MGH Institute of Health Professions	University	U52938994
+201	Maine Maritime Academy	University	U53051530
+202	Mandalay Technological University	University	U22693182
+203	Manhattanville College	University	U3796399
+204	Martin-Luther Universität Halle-Wittenberg	University	U18478824
+205	Massachusetts College of Liberal Arts	University	U69367618
+206	Meemm	Company	C46976353
+207	Meetz	Company	C75361510
+208	Meevee	Company	C83519642
+209	Meeveo	Company	C92067348
+210	Meezzy	Company	C1789167
+211	Merrimack College	University	U2719958
+212	Miami University of Ohio - Middletown	University	U74535526
+213	Midel	Company	C22630713
+214	Miyazaki Medical College	University	U66784596
+215	Mokpo National University	University	U80402668
+216	Moldova Cooperative Trade University	University	U91345892
+217	Mountains of the Moon University	University	U70069291
+218	Mudo	Company	C28937833
+219	Multimedia University	University	U51008792
+220	Murmansk State Technical University	University	U97938088
+221	Mybuzz	Company	C29461386
+222	Mycat	Company	C16529523
+223	Mydeo	Company	C73199788
+224	Myworks	Company	C50423400
+225	NAES College	University	U42938485
+226	NTB Interstate University of Applied Sciences of Technology	University	U90098089
+227	Nagoya University	University	U31264898
+228	Najran University	University	U55487269
+229	Nakamura Gakuen University	University	U48384468
+230	Nanjing University of Economics	University	U97085019
+231	National Sun Yat-Sen University	University	U27144361
+232	National University of Laos	University	U49715904
+233	New College of California	University	U23717750
+234	New York College of Podiatric Medicine	University	U59574594
+235	Nizhny Novgorod State Technical University	University	U7938570
+236	North University of Baia Mare	University	U54980501
+237	Ntag	Company	C89663480
+238	Oklahoma State University - Institute of Technology	University	U41926325
+239	Oloo	Company	C46717332
+240	Oodoo	Company	C79497637
+241	Osaka Electro-Communication University	University	U62187322
+242	Oyoloo	Company	C98858630
+243	Oyonder	Company	C35543982
+244	Ozu	Company	C6335817
+245	Pavol Jozef Safarik University in Kosice	University	U18054160
+246	Payame Noor University	University	U14252889
+247	Pennsylvania State University - Berks-Lehigh Valley College	University	U78582685
+248	Philosophisch-Theologische Hochschule SVD Sankt Augustin	University	U90234518
+249	Photobean	Company	C83040810
+250	Photobug	Company	C22333191
+251	Photospace	Company	C3597731
+252	Pixoboo	Company	C22465803
+253	Pixope	Company	C98965987
+254	Podcat	Company	C84742098
+255	Poole Gakuin University	University	U5540078
+256	Private Hanseuniversität	University	U35962219
+257	Quatz	Company	C40418525
+258	Quaxo	Company	C89680283
+259	Queens University	University	U59776795
+260	Quimba	Company	C5692552
+261	Quimm	Company	C59141220
+262	Quinu	Company	C40265853
+263	Quire	Company	C89520292
+264	Rak Medical & Health Sciences University	University	U61975472
+265	Rasmussen College, Florida Campuses	University	U81010608
+266	Rasmussen College, Minnesota Campuses	University	U69988208
+267	Realblab	Company	C95377436
+268	Realbuzz	Company	C62747282
+269	Realcube	Company	C71166317
+270	Realfire	Company	C94146625
+271	Reallinks	Company	C86672200
+272	Realmix	Company	C14108795
+273	Realpoint	Company	C78122463
+274	Rheinische Friedrich-Wilhelms Universität Bonn	University	U46427858
+275	Rhybox	Company	C72053753
+276	Rhycero	Company	C87522920
+277	Rhyloo	Company	C16421456
+278	Rhynyx	Company	C64676835
+279	Riffpath	Company	C35498060
+280	Roomm	Company	C52942334
+281	Royal University of Law and Economics	University	U41234994
+282	Rutgers, The State University of New Jersey - Camden	University	U89701795
+283	SASTRA Deemed University	University	U23115437
+284	Samara State Academy for Railway Transportation	University	U58948460
+285	Saxion Universities 	University	U65569058
+286	Shaheed Rajaei Teacher Training University	University	U91409998
+287	Shandong University of Art and Design	University	U52587511
+288	Shibaura Institute of Technology	University	U2745489
+289	Shivaji University	University	U11514902
+290	Shuffledrive	Company	C34283643
+291	Skaboo	Company	C3839463
+292	Skalith	Company	C78758853
+293	Skiba	Company	C1589019
+294	Skilith	Company	C98739993
+295	Skimia	Company	C76480876
+296	Skipstorm	Company	C86595310
+297	Skiptube	Company	C5391833
+298	Skyba	Company	C85194251
+299	Skyble	Company	C20901721
+300	Skyndu	Company	C16764275
+301	Skynoodle	Company	C4054794
+302	Slovak Medical University	University	U21437371
+303	South Carolina State University	University	U78090362
+304	Southern New Hampshire University	University	U11287961
+305	Stefan University	University	U4128737
+306	Surgut State University	University	U32254591
+307	Södertörn University College	University	U65359251
+308	Tagcat	Company	C79711239
+309	Tagchat	Company	C34297781
+310	Tagopia	Company	C84679198
+311	Tagpad	Company	C54206993
+312	Taj International College	University	U98698617
+313	Tambee	Company	C45557340
+314	Tamil Nadu Dr. Ambedkar Law University	University	U40763974
+315	Tamkang University	University	U27487728
+316	Tanoodle	Company	C15854440
+317	Tarleton State University	University	U88710839
+318	Tashkent State University of Economics	University	U65521742
+319	Tazz	Company	C4231189
+320	Technical University of Zielona Gora	University	U73339652
+321	Tekfly	Company	C37621289
+322	Teklist	Company	C7686131
+323	Textile Institute of Pakistan	University	U53178274
+324	The College of New Jersey	University	U41463322
+325	Thiagarajar College of Engineering	University	U35677387
+326	Thoughtbeat	Company	C85358362
+327	Thoughtblab	Company	C89746148
+328	Thoughtbridge	Company	C93821749
+329	Thoughtsphere	Company	C16985901
+330	Thoughtstorm	Company	C49127284
+331	Tobb Economics and Technology University	University	U67971299
+332	Tongji University	University	U36557562
+333	Topdrive	Company	C40549064
+334	Topiclounge	Company	C57187267
+335	Topicware	Company	C78052259
+336	Trilith	Company	C61864547
+337	Trunyx	Company	C60440983
+338	Twimbo	Company	C78562077
+339	Twitterlist	Company	C82702159
+340	Twitternation	Company	C7464329
+341	Twitterwire	Company	C4181256
+342	Twiyo	Company	C34840563
+343	Union College Nebraska	University	U69204818
+344	Universidad Abierta Interamericana	University	U10793909
+345	Universidad Católica de Cuenca	University	U99191689
+346	Universidad Católica del Uruguay	University	U20148281
+347	"Universidad Centroamericana ""José Simeón Canas"""	University	U60348160
+348	Universidad Centroamericana de Ciencias Empresariales (UCEM)	University	U50676612
+349	Universidad Dominico-Americana	University	U91507236
+350	Universidad Iberoamericana	University	U62549009
+351	Universidad Iberoamericana de Ciencia y Tecnologia	University	U52770053
+352	Universidad Interamericana	University	U95780422
+353	Universidad Internacional de Andalucía	University	U47540719
+354	Universidad Internacional del Ecuador	University	U22002182
+355	Universidad Isaac Newton	University	U60968215
+356	Universidad Latina	University	U42666467
+357	Universidad Mayor de San Simón	University	U44094149
+358	Universidad Nacional de la Amazonía Peruana	University	U57653387
+359	Universidad ORT Uruguay	University	U62334858
+360	Universidad Pedagógica y Tecnológica de Colombia	University	U13408328
+361	Universidad Privada Franz Tamayo (UNIFRANZ)	University	U49706641
+362	Universidad Regional del Sureste	University	U72951427
+363	"Universidad Salvadorena ""Alberto Masferrer"""	University	U27376614
+364	Universidad de Aconcagua	University	U36725609
+365	Universidad de Congreso	University	U24753762
+366	Universidad de La Salle, Bajío	University	U44585144
+367	Universidad de Zaragoza	University	U79073349
+368	Universidad de la Cuenca del Plata	University	U50692181
+369	Universidad del Valle del Bravo	University	U13056928
+370	Universidade Cidade de São Paulo	University	U62758272
+371	Universidade Federal de Alagoas	University	U97442767
+372	Universidade Federal de Mato Grosso	University	U30503092
+373	Universitas Komputer Indonesia	University	U97878350
+374	Universitas Widyatama	University	U71724387
+375	Universiti Kuala Lumpur Malaysian Institute of Information Technology (MIIT)	University	U90136738
+376	Universiti Malaysia Sarawak	University	U21923252
+377	University College of the Cariboo	University	U34993578
+378	University Tun Abdul Razak	University	U36720451
+379	University for Peace	University	U66368228
+380	University of Agriculture and Veterinary Medicine Cluj-Napoca	University	U78059097
+381	University of Baguio	University	U18679633
+382	University of Bolton	University	U52695279
+383	University of California System	University	U40994651
+384	University of Colorado Health Sciences Center	University	U72731295
+385	University of Delaware	University	U34150713
+386	University of Gastronomic Sciences	University	U44840580
+387	University of Hawaii - Hilo	University	U89123039
+388	University of Health and Science	University	U71088811
+389	University of Islamic Studies	University	U3556226
+390	University of Liberal Arts	University	U70877255
+391	University of Mauritius	University	U37358856
+392	University of Northern Virginia	University	U82241517
+393	University of San Carlos	University	U86993730
+394	University of Sri Jayawardenapura	University	U4583712
+395	University of Tampa	University	U9216646
+396	University of Toronto, Mississauga	University	U19654915
+397	University of Ulster	University	U47417818
+398	University of Wollongong	University	U85153884
+399	University of the Visayas	University	U33589365
+400	Università Pontifcia Salesiana	University	U2574214
+401	Universität Augsburg	University	U72670445
+402	Université Catholique de Bukavu	University	U75405525
+403	Université Joseph Fourier (Grenoble I)	University	U42359455
+404	Université Mohammed V - Agdal	University	U15425597
+405	Université René Descartes (Paris V)	University	U21511268
+406	Université d'Abobo-Adjamé	University	U29852213
+407	Université de Kolwezi	University	U54909188
+408	Université de Technologie de Belfort Montbéliard	University	U12596212
+409	Université du Québec à Chicoutimi	University	U8712497
+410	Vimbo	Company	C20925090
+411	Vinder	Company	C42996559
+412	Vinte	Company	C55322314
+413	Vipe	Company	C45467904
+414	Virginia Union University	University	U68276616
+415	Vitebsk State Academy of Veterinary Medicine	University	U89610512
+416	Viva	Company	C23528792
+417	Volgograd State Academy of Physical Education	University	U82322217
+418	Volyn National University Lesja Ukrainka	University	U46075593
+419	Voolia	Company	C22531346
+420	Voonte	Company	C86383796
+421	Walden University	University	U41163111
+422	Wayne State College	University	U90678188
+423	Wellspring University	University	U86571939
+424	Western Baptist College	University	U25389226
+425	Western Maryland College	University	U18838538
+426	Wikido	Company	C54011309
+427	Wikizz	Company	C1496964
+428	Wordify	Company	C92408622
+429	Wordpedia	Company	C27311246
+430	Yacero	Company	C42278440
+431	Yakidoo	Company	C34392270
+432	Yakitri	Company	C96041023
+433	Yambee	Company	C44229736
+434	Yamia	Company	C49694675
+435	Yata	Company	C75450516
+436	Yodo	Company	C65639001
+437	Yodoo	Company	C10557816
+438	Yotz	Company	C82066512
+439	Youbridge	Company	C15941706
+440	Youspan	Company	C15076783
+441	Zhongnan University of Technology	University	U42313233
+442	Zoombeat	Company	C20174575
+443	Zoomdog	Company	C42596468
+444	Zoomzone	Company	C72241970
+445	Zoonoodle	Company	C9213752
+446	Zooveo	Company	C24640552
+447	Zurich University of Applied Sciences Winterthur	University	U84702595

@@ -1,0 +1,23 @@
+	Name	Type	Unique_Private_key
+0	Generic_Government	Government	G001
+1	Goldman Sachs	Bank	B00011
+2	Credit Suisse	Bank	B00010
+3	Société Générale	Bank	B00009
+4	Barclays PLC	Bank	B00008
+5	Mizuho Financial Group	Bank	B00007
+6	Bank of America	Bank	B00006
+7	BNP Paribas	Bank	B00005
+8	HSBC Holdings PLC	Bank	B00004
+9	JPMorgan Chase & Co.	Bank	B00003
+10	Mitsubishi UFJ Financial Group	Bank	B00002
+11	Bank of China	Bank	B00001
+12	Browsedrive	Company	C85094142
+13	Divanoodle	Company	C2156271
+14	Flipopia	Company	C2564983
+15	Hellenic Army Academy	University	U12594284
+16	Jadavpur University	University	U27115025
+17	Tagopia	Company	C78780810
+18	Temple University School of Podiatric Medicine	University	U36437006
+19	Topicblab	Company	C9422547
+20	Universidade do Rio Grande	University	U12178692
+21	Université Nancy II	University	U74368691
